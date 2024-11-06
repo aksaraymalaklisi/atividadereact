@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/atividadereact/static/css/main.8dd8cf2b.css",
+    "main.js": "/atividadereact/static/js/main.03cc306a.js",
+    "static/js/453.44794247.chunk.js": "/atividadereact/static/js/453.44794247.chunk.js",
+    "index.html": "/atividadereact/index.html",
+    "main.8dd8cf2b.css.map": "/atividadereact/static/css/main.8dd8cf2b.css.map",
+    "main.03cc306a.js.map": "/atividadereact/static/js/main.03cc306a.js.map",
+    "453.44794247.chunk.js.map": "/atividadereact/static/js/453.44794247.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8dd8cf2b.css",
+    "static/js/main.03cc306a.js"
+  ]
+}
